@@ -37,7 +37,7 @@
 [Samova](http://www.friendo.com.tw/samova)、
 [果蕊](http://www.friendo.com.tw/glyceutical)、
 [中國信託](http://site.friendo.com.tw/ctbc) 等
-- 粉多任務樣板系統(前端工程、系統設計主導)  
+- 粉多任務版型系統(前端工程、系統設計主導)  
     - 以此系統開發的專案：[漢堡王黑皮堡](http://www.friendo.com.tw/Mission/3841)、
 [漢堡王](http://www.friendo.com.tw/Mission/3958)、
 [喜特麗](http://www.friendo.com.tw/Mission/3641)、
@@ -49,47 +49,84 @@
     - 改善開發流程，掌握新技術以輔佐營運團隊開拓業務
     - 降低專案程式端成本40%
     - 推動SOP提升專案品質
+
+# 公司實績
+- 2014 時際創意傳媒 第三十六屆華文廣告金像獎-環境媒體運用類
+    - 獲獎專案：Screen Chat 螢幕聊天室
+- 2015 動腦雜誌 年度傑出數位行銷公司 銅獎
+- 2016 經濟部 SBIR績優計畫評選獲獎
+    - 獲獎產品：粉多任務 (MAAS雲端行銷服務平台研發)
+-   [台灣微軟雲端合作夥伴](https://www.microsoft.com/taiwan/casestudies/case/case_120827_friendo.aspx)
+
 # 經歷
+- 高雄義守大學 資訊工程學系畢業
 - 雷震科技股份有限公司 2009／09 ～ 2010／12
 - 春樹科技股份有限公司 2011／01 ～
 
-        剛入社會前兩年參與了數十個政府網站製作，認識了模組化設計與程式測試，第一次體會到模組化的威力與其麻煩之處。
+        入社會前兩年參與了數十個政府網站製作，認識了模組化設計與程式測試，第一次體會到模組化的威力與其麻煩之處。
         
-        後來因為工作上的接觸，認識了春樹科技的執行長，相談甚歡下，便進入春樹科技，開始了粉多交友的網站製作。在這個產品中，我負責好友關係鏈、商城、站內訊息、會員驗證等的系統設計及施作，也負責微軟雲端環境架設、管理及公司內部ＭＩＳ事務。
+        後來因為工作上的接觸，認識了春樹科技的執行長，深入聊了幾次，蠻認同他的商業洞察與價值觀，便加入了春樹科技開始粉多交友網站的製作。在這個產品中，我負責好友關係鏈、商城、站內訊息、會員驗證等的系統設計及施作，也負責微軟雲端環境架設、管理及公司內部ＭＩＳ事務。
 
-        隔年粉多交友上線，但在FACEBOOK的強大競爭下，同年公司改變策略，著手製作粉多任務；在這個產品中，我負責將粉多交友可重用的功能改版至粉多任務(商城、會員驗證等)，並負責在兩個網站間進行使用者轉換(前端工程，讓使用者慢慢將重心轉移到粉多任務)。
+        隔年粉多交友上線，但在FACEBOOK的強大競爭下，同年公司改變策略，著手製作粉多任務；在這個產品中，我負責前端工程，將粉多交友部分功能轉移至粉多任務，並讓使用者慢慢將重心轉移到粉多任務。
         
-        粉多任務營運一年後，營運團隊找到了一些甜蜜點，於是開始著手樣板系統的研發，在此專案中我與二位同事被指派負責系統設計與開發。樣板系統上線後數月，因發現客戶需求，在其上擴充了品牌基地及粉多任務樣板的功能。
+        粉多任務營運一年後，營運團隊找到了一些甜蜜點，於是開始著手版型系統的研發，在此專案中我與二位同事一同負責系統設計與開發。之後因客戶需求擴大，又擴充了品牌基地及任務的功能。
         
-        之後公司業務持續擴展，也開始接獨立專案的ＣＡＳＥ；我也被任命為程式部門主管，領導6人團隊，期間程式部除了製作專案，也推動了專案製作的ＳＯＰ、功能模組化、連續整合模式等優化。
+        之後公司業務持續擴展，開始接獨立專案的ＣＡＳＥ，客戶的需求也越來越不同；之後我被升為程式部門主管，領導6人團隊，期間程式部除了製作專案外，也進行了專案製作流程標準化、新技術導入、功能模組化、連續整合模式、自動部署、自動化工具 等優化。
 # 附件
 
-![N|Solid](https://drive.google.com/uc?export=view&id=0B9oyEze6xNEKbVVYVWlFMXR1YXM)
+![N|Solid](images/11160057_972390732779201_7322910941470148448_o.jpg)
+
 
 兌換中心
-![N|Solid](https://drive.google.com/uc?export=view&id=0B9oyEze6xNEKU1pCeXR6QjdPd0U)
+
+![N|Solid](images/wish.png)
+
 
 訊息中心
-![N|Solid](https://drive.google.com/uc?export=view&id=0B9oyEze6xNEKN1cwR2dZclJzMVE)
+
+![N|Solid](images/message.png)
+
 
 帳號認證
-![N|Solid](https://drive.google.com/uc?export=view&id=0B9oyEze6xNEKWDFMcGJ3dE1CdW8)
+
+![N|Solid](images/account.png)
+
 
 家樂福中元節活動
-![N|Solid](https://drive.google.com/uc?export=view&id=0B9oyEze6xNEKSDNwcml6SXlGUDg)
+
+![N|Solid](images/carrefour.png)
+
 
 凱基銀行愛自己分享家
-![N|Solid](https://drive.google.com/uc?export=view&id=0B9oyEze6xNEKNUp6Zy1DME9lbDg)
+
+![N|Solid](images/kgi.png)
+
 
 華碩美景大對決
-![N|Solid](https://drive.google.com/uc?export=view&id=0B9oyEze6xNEKMFVzNVN1TzJpTjQ)
+
+![N|Solid](images/asus.png)
+
 
 晶碩撫子女孩交叉點
-![N|Solid](https://drive.google.com/uc?export=view&id=0B9oyEze6xNEKRWtUUlB0VUh2T2M)
+
+![N|Solid](images/pega.png)
+
+
+動腦雜誌 年度傑出數位行銷公司 銅獎
+
+![N|Solid](images/1725009_n.jpg)
+
+
+經濟部 SBIR績優計畫評選
+
+![N|Solid](images/S_30097433.jpg)
+
 
 假日小聚
 
-![N|Solid](https://drive.google.com/uc?export=view&id=0B9oyEze6xNEKckhnRk1fLXpWeEU)
+![N|Solid](images/12417731_1145958558755750_2576973848863518999_n.jpg)
+
 
 Paella
-![N|Solid](https://drive.google.com/uc?export=view&id=0B9oyEze6xNEKYnlKZjQteEFtYzA)
+
+![N|Solid](images/12768372_1122167801134826_5404567252788779937_o.jpg)
